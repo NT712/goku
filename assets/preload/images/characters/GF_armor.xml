@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_armor.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF armor Idle0000" x="0" y="0" width="699" height="634" frameX="-2" frameY="-14" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0001" x="699" y="0" width="703" height="633" frameX="0" frameY="-15" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0002" x="1402" y="0" width="703" height="632" frameX="0" frameY="-16" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0003" x="2105" y="0" width="699" height="634" frameX="-2" frameY="-14" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0004" x="2804" y="0" width="699" height="635" frameX="-2" frameY="-13" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0005" x="3503" y="0" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0006" x="4202" y="0" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0007" x="4901" y="0" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0008" x="5600" y="0" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0009" x="6299" y="0" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0010" x="6998" y="0" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0011" x="0" y="648" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0012" x="699" y="648" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0013" x="1398" y="648" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0014" x="2097" y="648" width="699" height="644" frameX="-2" frameY="-4" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0015" x="2796" y="648" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0016" x="3495" y="648" width="703" height="636" frameX="0" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0017" x="4198" y="648" width="703" height="636" frameX="0" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0018" x="4901" y="648" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0019" x="5600" y="648" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0020" x="6299" y="648" width="699" height="638" frameX="-2" frameY="-10" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0021" x="6998" y="648" width="699" height="638" frameX="-2" frameY="-10" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0022" x="0" y="1296" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0023" x="699" y="1296" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0024" x="1398" y="1296" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0025" x="2097" y="1296" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0026" x="2796" y="1296" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0027" x="3495" y="1296" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0028" x="4194" y="1296" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor Idle0029" x="4194" y="1296" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF armor miss0000" x="4893" y="1296" width="699" height="633" frameX="0" frameY="-3" frameWidth="699" frameHeight="636"/>
+	<SubTexture name="GF armor miss0001" x="4893" y="1296" width="699" height="633" frameX="0" frameY="-3" frameWidth="699" frameHeight="636"/>
+	<SubTexture name="GF armor miss0002" x="5592" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0003" x="5592" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0004" x="6291" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0005" x="6291" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0006" x="6990" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0007" x="6990" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0008" x="0" y="1939" width="699" height="636"/>
+	<SubTexture name="GF armor miss0009" x="0" y="1939" width="699" height="636"/>
+	<SubTexture name="GF armor miss0010" x="5592" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0011" x="5592" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0012" x="6291" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0013" x="6291" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0014" x="6990" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0015" x="6990" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0016" x="0" y="1939" width="699" height="636"/>
+	<SubTexture name="GF armor miss0017" x="0" y="1939" width="699" height="636"/>
+	<SubTexture name="GF armor miss0018" x="5592" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0019" x="5592" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0020" x="6291" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0021" x="6291" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0022" x="6990" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0023" x="6990" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0024" x="0" y="1939" width="699" height="636"/>
+	<SubTexture name="GF armor miss0025" x="0" y="1939" width="699" height="636"/>
+	<SubTexture name="GF armor miss0026" x="5592" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0027" x="5592" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0028" x="6291" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0029" x="6291" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0030" x="6990" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0031" x="6990" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0032" x="0" y="1939" width="699" height="636"/>
+	<SubTexture name="GF armor miss0033" x="0" y="1939" width="699" height="636"/>
+	<SubTexture name="GF armor miss0034" x="5592" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0035" x="5592" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0036" x="6291" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0037" x="6291" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0038" x="6990" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0039" x="6990" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0040" x="0" y="1939" width="699" height="636"/>
+	<SubTexture name="GF armor miss0041" x="0" y="1939" width="699" height="636"/>
+	<SubTexture name="GF armor miss0042" x="5592" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0043" x="5592" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0044" x="6291" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0045" x="6291" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0046" x="6990" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0047" x="6990" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0048" x="0" y="1939" width="699" height="636"/>
+	<SubTexture name="GF armor miss0049" x="0" y="1939" width="699" height="636"/>
+	<SubTexture name="GF armor miss0050" x="5592" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0051" x="5592" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0052" x="6291" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0053" x="6291" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0054" x="6990" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0055" x="6990" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0056" x="0" y="1939" width="699" height="636"/>
+	<SubTexture name="GF armor miss0057" x="0" y="1939" width="699" height="636"/>
+	<SubTexture name="GF armor miss0058" x="5592" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0059" x="5592" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0060" x="6291" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0061" x="6291" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0062" x="6990" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0063" x="6990" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0064" x="0" y="1939" width="699" height="636"/>
+	<SubTexture name="GF armor miss0065" x="0" y="1939" width="699" height="636"/>
+	<SubTexture name="GF armor miss0066" x="5592" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0067" x="5592" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0068" x="6291" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0069" x="6291" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0070" x="6990" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0071" x="6990" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0072" x="0" y="1939" width="699" height="636"/>
+	<SubTexture name="GF armor miss0073" x="0" y="1939" width="699" height="636"/>
+	<SubTexture name="GF armor miss0074" x="5592" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0075" x="5592" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0076" x="6291" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0077" x="6291" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0078" x="6990" y="1296" width="699" height="636"/>
+	<SubTexture name="GF armor miss0079" x="6990" y="1296" width="699" height="636"/>
+</TextureAtlas>
