@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "idle",
+			"indices": [],
+			"name": "Goku_Idle"
+		},
+		{
+			"offsets": [
+				18,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Goku_Left"
+		},
+		{
+			"offsets": [
+				201,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Goku_Right"
+		},
+		{
+			"offsets": [
+				217,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "charge",
+			"indices": [],
+			"name": "Goku_Charge"
+		},
+		{
+			"offsets": [
+				6,
+				73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Goku_Up"
+		},
+		{
+			"offsets": [
+				198,
+				-95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Goku_Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/goku_assets",
+	"position": [
+		100,
+		70
+	],
+	"healthicon": "goku",
+	"flip_x": false,
+	"healthbar_colors": [
+		213,
+		146,
+		40
+	],
+	"camera_position": [
+		-220,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

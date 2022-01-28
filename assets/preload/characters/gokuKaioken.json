@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 28,
+			"name": "KaiokenGoku_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				35
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "KaiokenGoku_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "KaiokenGoku_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				3
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "KaiokenGoku_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "KaiokenGoku_Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/goku_assets",
+	"position": [
+		-130,
+		-100
+	],
+	"healthicon": "gokuKaioken",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		106,
+		160
+	],
+	"camera_position": [
+		-10,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

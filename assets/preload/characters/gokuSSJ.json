@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "idle",
+			"indices": [],
+			"name": "SSJGoku_Idle"
+		},
+		{
+			"offsets": [
+				171,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SuperGoku_Right"
+		},
+		{
+			"offsets": [
+				38,
+				-75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SuperGoku_Down"
+		},
+		{
+			"offsets": [
+				27,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SuperGoku_Up"
+		},
+		{
+			"offsets": [
+				8,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SuperGoku_Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/goku_assets",
+	"position": [
+		40,
+		80
+	],
+	"healthicon": "gokuSSJ",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		235,
+		75
+	],
+	"camera_position": [
+		-200,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
