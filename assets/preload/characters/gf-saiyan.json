@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-21
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "GF armor miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GF armor Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF_armor",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
