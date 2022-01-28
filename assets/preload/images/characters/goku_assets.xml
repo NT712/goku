@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="goku_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Goku_Charge0000" x="0" y="0" width="637" height="880" frameX="-45" frameY="-13" frameWidth="706" frameHeight="909"/>
+	<SubTexture name="Goku_Charge0001" x="0" y="0" width="637" height="880" frameX="-45" frameY="-13" frameWidth="706" frameHeight="909"/>
+	<SubTexture name="Goku_Charge0002" x="637" y="0" width="706" height="909"/>
+	<SubTexture name="Goku_Charge0003" x="637" y="0" width="706" height="909"/>
+	<SubTexture name="Goku_Charge0004" x="1343" y="0" width="706" height="909"/>
+	<SubTexture name="Goku_Down0000" x="2049" y="0" width="558" height="575"/>
+	<SubTexture name="Goku_Down0001" x="2607" y="0" width="548" height="575" frameX="-5" frameY="0" frameWidth="558" frameHeight="575"/>
+	<SubTexture name="Goku_Down0002" x="2607" y="0" width="548" height="575" frameX="-5" frameY="0" frameWidth="558" frameHeight="575"/>
+	<SubTexture name="Goku_Idle0000" x="3155" y="0" width="301" height="651" frameX="0" frameY="-5" frameWidth="301" frameHeight="656"/>
+	<SubTexture name="Goku_Idle0001" x="3155" y="0" width="301" height="651" frameX="0" frameY="-5" frameWidth="301" frameHeight="656"/>
+	<SubTexture name="Goku_Idle0002" x="3456" y="0" width="298" height="654" frameX="-1" frameY="-2" frameWidth="301" frameHeight="656"/>
+	<SubTexture name="Goku_Idle0003" x="3456" y="0" width="298" height="654" frameX="-1" frameY="-2" frameWidth="301" frameHeight="656"/>
+	<SubTexture name="Goku_Idle0004" x="3754" y="0" width="297" height="655" frameX="-1" frameY="-1" frameWidth="301" frameHeight="656"/>
+	<SubTexture name="Goku_Idle0005" x="3754" y="0" width="297" height="655" frameX="-1" frameY="-1" frameWidth="301" frameHeight="656"/>
+	<SubTexture name="Goku_Idle0006" x="4051" y="0" width="294" height="656" frameX="-3" frameY="0" frameWidth="301" frameHeight="656"/>
+	<SubTexture name="Goku_Idle0007" x="4051" y="0" width="294" height="656" frameX="-3" frameY="0" frameWidth="301" frameHeight="656"/>
+	<SubTexture name="Goku_Idle0008" x="4051" y="0" width="294" height="656" frameX="-3" frameY="0" frameWidth="301" frameHeight="656"/>
+	<SubTexture name="Goku_Idle0009" x="4051" y="0" width="294" height="656" frameX="-3" frameY="0" frameWidth="301" frameHeight="656"/>
+	<SubTexture name="Goku_Idle0010" x="4051" y="0" width="294" height="656" frameX="-3" frameY="0" frameWidth="301" frameHeight="656"/>
+	<SubTexture name="Goku_Idle0011" x="4051" y="0" width="294" height="656" frameX="-3" frameY="0" frameWidth="301" frameHeight="656"/>
+	<SubTexture name="Goku_Idle0012" x="4051" y="0" width="294" height="656" frameX="-3" frameY="0" frameWidth="301" frameHeight="656"/>
+	<SubTexture name="Goku_Idle0013" x="4051" y="0" width="294" height="656" frameX="-3" frameY="0" frameWidth="301" frameHeight="656"/>
+	<SubTexture name="Goku_Left0000" x="4345" y="0" width="370" height="690"/>
+	<SubTexture name="Goku_Left0001" x="4715" y="0" width="367" height="690" frameX="-1" frameY="0" frameWidth="370" frameHeight="690"/>
+	<SubTexture name="Goku_Left0002" x="5082" y="0" width="367" height="690" frameX="-1" frameY="0" frameWidth="370" frameHeight="690"/>
+	<SubTexture name="Goku_Right0000" x="5449" y="0" width="613" height="528" frameX="-2" frameY="0" frameWidth="615" frameHeight="532"/>
+	<SubTexture name="Goku_Right0001" x="6062" y="0" width="615" height="531" frameX="0" frameY="-1" frameWidth="615" frameHeight="532"/>
+	<SubTexture name="Goku_Right0002" x="6677" y="0" width="615" height="531" frameX="0" frameY="-1" frameWidth="615" frameHeight="532"/>
+	<SubTexture name="Goku_Up0000" x="7292" y="0" width="285" height="699"/>
+	<SubTexture name="Goku_Up0001" x="7577" y="0" width="280" height="697" frameX="-2" frameY="0" frameWidth="285" frameHeight="699"/>
+	<SubTexture name="Goku_Up0002" x="7577" y="0" width="280" height="697" frameX="-2" frameY="0" frameWidth="285" frameHeight="699"/>
+	<SubTexture name="KaiokenGoku_Down0000" x="0" y="909" width="697" height="905" frameX="-2" frameY="-10" frameWidth="701" frameHeight="918"/>
+	<SubTexture name="KaiokenGoku_Down0001" x="0" y="909" width="697" height="905" frameX="-2" frameY="-10" frameWidth="701" frameHeight="918"/>
+	<SubTexture name="KaiokenGoku_Down0002" x="697" y="909" width="697" height="905" frameX="-2" frameY="-10" frameWidth="701" frameHeight="918"/>
+	<SubTexture name="KaiokenGoku_Down0003" x="1394" y="909" width="701" height="918"/>
+	<SubTexture name="KaiokenGoku_Idle0000" x="2095" y="909" width="698" height="906" frameX="-1" frameY="-10" frameWidth="701" frameHeight="919"/>
+	<SubTexture name="KaiokenGoku_Idle0001" x="2095" y="909" width="698" height="906" frameX="-1" frameY="-10" frameWidth="701" frameHeight="919"/>
+	<SubTexture name="KaiokenGoku_Idle0002" x="2793" y="909" width="698" height="906" frameX="-1" frameY="-10" frameWidth="701" frameHeight="919"/>
+	<SubTexture name="KaiokenGoku_Idle0003" x="3491" y="909" width="701" height="919"/>
+	<SubTexture name="KaiokenGoku_Idle0004" x="4192" y="909" width="701" height="919"/>
+	<SubTexture name="KaiokenGoku_Idle0005" x="4893" y="909" width="698" height="906" frameX="-1" frameY="-10" frameWidth="701" frameHeight="919"/>
+	<SubTexture name="KaiokenGoku_Idle0006" x="5591" y="909" width="698" height="906" frameX="-1" frameY="-10" frameWidth="701" frameHeight="919"/>
+	<SubTexture name="KaiokenGoku_Idle0007" x="5591" y="909" width="698" height="906" frameX="-1" frameY="-10" frameWidth="701" frameHeight="919"/>
+	<SubTexture name="KaiokenGoku_Idle0008" x="6289" y="909" width="701" height="919"/>
+	<SubTexture name="KaiokenGoku_Idle0009" x="6289" y="909" width="701" height="919"/>
+	<SubTexture name="KaiokenGoku_Idle0010" x="5591" y="909" width="698" height="906" frameX="-1" frameY="-10" frameWidth="701" frameHeight="919"/>
+	<SubTexture name="KaiokenGoku_Idle0011" x="5591" y="909" width="698" height="906" frameX="-1" frameY="-10" frameWidth="701" frameHeight="919"/>
+	<SubTexture name="KaiokenGoku_Idle0012" x="5591" y="909" width="698" height="906" frameX="-1" frameY="-10" frameWidth="701" frameHeight="919"/>
+	<SubTexture name="KaiokenGoku_Idle0013" x="6289" y="909" width="701" height="919"/>
+	<SubTexture name="KaiokenGoku_Left0000" x="6990" y="909" width="697" height="904" frameX="-2" frameY="-11" frameWidth="700" frameHeight="919"/>
+	<SubTexture name="KaiokenGoku_Left0001" x="6990" y="909" width="697" height="904" frameX="-2" frameY="-11" frameWidth="700" frameHeight="919"/>
+	<SubTexture name="KaiokenGoku_Left0002" x="0" y="1828" width="697" height="904" frameX="-2" frameY="-11" frameWidth="700" frameHeight="919"/>
+	<SubTexture name="KaiokenGoku_Left0003" x="697" y="1828" width="700" height="919"/>
+	<SubTexture name="KaiokenGoku_Right0000" x="1397" y="1828" width="694" height="905" frameX="-8" frameY="-11" frameWidth="715" frameHeight="919"/>
+	<SubTexture name="KaiokenGoku_Right0001" x="1397" y="1828" width="694" height="905" frameX="-8" frameY="-11" frameWidth="715" frameHeight="919"/>
+	<SubTexture name="KaiokenGoku_Right0002" x="2091" y="1828" width="694" height="905" frameX="-8" frameY="-11" frameWidth="715" frameHeight="919"/>
+	<SubTexture name="KaiokenGoku_Right0003" x="2785" y="1828" width="715" height="919"/>
+	<SubTexture name="KaiokenGoku_Up0000" x="3500" y="1828" width="698" height="904" frameX="-1" frameY="-11" frameWidth="700" frameHeight="919"/>
+	<SubTexture name="KaiokenGoku_Up0001" x="3500" y="1828" width="698" height="904" frameX="-1" frameY="-11" frameWidth="700" frameHeight="919"/>
+	<SubTexture name="KaiokenGoku_Up0002" x="4198" y="1828" width="698" height="904" frameX="-1" frameY="-11" frameWidth="700" frameHeight="919"/>
+	<SubTexture name="KaiokenGoku_Up0003" x="4896" y="1828" width="700" height="919"/>
+	<SubTexture name="SSJGoku_Idle0000" x="5596" y="1828" width="354" height="655"/>
+	<SubTexture name="SSJGoku_Idle0001" x="5596" y="1828" width="354" height="655"/>
+	<SubTexture name="SSJGoku_Idle0002" x="5950" y="1828" width="349" height="653" frameX="-3" frameY="-2" frameWidth="354" frameHeight="655"/>
+	<SubTexture name="SSJGoku_Idle0003" x="5950" y="1828" width="349" height="653" frameX="-3" frameY="-2" frameWidth="354" frameHeight="655"/>
+	<SubTexture name="SSJGoku_Idle0004" x="6299" y="1828" width="347" height="652" frameX="-4" frameY="-3" frameWidth="354" frameHeight="655"/>
+	<SubTexture name="SSJGoku_Idle0005" x="6299" y="1828" width="347" height="652" frameX="-4" frameY="-3" frameWidth="354" frameHeight="655"/>
+	<SubTexture name="SSJGoku_Idle0006" x="6646" y="1828" width="343" height="651" frameX="-6" frameY="-4" frameWidth="354" frameHeight="655"/>
+	<SubTexture name="SSJGoku_Idle0007" x="6646" y="1828" width="343" height="651" frameX="-6" frameY="-4" frameWidth="354" frameHeight="655"/>
+	<SubTexture name="SSJGoku_Idle0008" x="6989" y="1828" width="340" height="650" frameX="-7" frameY="-5" frameWidth="354" frameHeight="655"/>
+	<SubTexture name="SSJGoku_Idle0009" x="6989" y="1828" width="340" height="650" frameX="-7" frameY="-5" frameWidth="354" frameHeight="655"/>
+	<SubTexture name="SSJGoku_Idle0010" x="6989" y="1828" width="340" height="650" frameX="-7" frameY="-5" frameWidth="354" frameHeight="655"/>
+	<SubTexture name="SSJGoku_Idle0011" x="6989" y="1828" width="340" height="650" frameX="-7" frameY="-5" frameWidth="354" frameHeight="655"/>
+	<SubTexture name="SSJGoku_Idle0012" x="6989" y="1828" width="340" height="650" frameX="-7" frameY="-5" frameWidth="354" frameHeight="655"/>
+	<SubTexture name="SSJGoku_Idle0013" x="6989" y="1828" width="340" height="650" frameX="-7" frameY="-5" frameWidth="354" frameHeight="655"/>
+	<SubTexture name="SuperGoku_Down0000" x="7329" y="1828" width="475" height="586"/>
+	<SubTexture name="SuperGoku_Down0001" x="7329" y="1828" width="475" height="586"/>
+	<SubTexture name="SuperGoku_Down0002" x="0" y="2747" width="462" height="586" frameX="-6" frameY="0" frameWidth="475" frameHeight="586"/>
+	<SubTexture name="SuperGoku_Down0003" x="0" y="2747" width="462" height="586" frameX="-6" frameY="0" frameWidth="475" frameHeight="586"/>
+	<SubTexture name="SuperGoku_Left0000" x="462" y="2747" width="370" height="685"/>
+	<SubTexture name="SuperGoku_Left0001" x="832" y="2747" width="367" height="685" frameX="-1" frameY="0" frameWidth="370" frameHeight="685"/>
+	<SubTexture name="SuperGoku_Left0002" x="1199" y="2747" width="367" height="685" frameX="-1" frameY="0" frameWidth="370" frameHeight="685"/>
+	<SubTexture name="SuperGoku_Right0000" x="1566" y="2747" width="613" height="531" frameX="-2" frameY="0" frameWidth="615" frameHeight="535"/>
+	<SubTexture name="SuperGoku_Right0001" x="2179" y="2747" width="615" height="533" frameX="0" frameY="-2" frameWidth="615" frameHeight="535"/>
+	<SubTexture name="SuperGoku_Right0002" x="2794" y="2747" width="615" height="533" frameX="0" frameY="-2" frameWidth="615" frameHeight="535"/>
+	<SubTexture name="SuperGoku_Up0000" x="3409" y="2747" width="278" height="688"/>
+	<SubTexture name="SuperGoku_Up0001" x="3687" y="2747" width="267" height="686" frameX="-3" frameY="0" frameWidth="278" frameHeight="688"/>
+	<SubTexture name="SuperGoku_Up0002" x="3687" y="2747" width="267" height="686" frameX="-3" frameY="0" frameWidth="278" frameHeight="688"/>
+</TextureAtlas>
